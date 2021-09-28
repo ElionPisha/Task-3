@@ -45,4 +45,10 @@ def start_scraping(res):
 
 res = get_request(test_url)
 data = start_scraping(res)
-print(json.dumps(data, indent=4, sort_keys=True))
+# print(json.dumps(data, indent=4, sort_keys=True))
+
+
+with open("data.txt", "w") as external_file:
+    data = start_scraping(res)
+    print(data, file=external_file)
+    external_file.close()
