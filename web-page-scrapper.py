@@ -50,5 +50,5 @@ data = start_scraping(res)
 
 with open("data.txt", "w") as external_file:
     data = start_scraping(res)
-    print(data, file=external_file)
+    print(json.dumps(data, indent=4, sort_keys=True), file=external_file)
     external_file.close()
