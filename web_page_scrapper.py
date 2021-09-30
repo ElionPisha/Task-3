@@ -16,6 +16,7 @@ class WebScrapper:
         self.session = HTMLSession()
         self.url = test_url
 
+
     def request_data(self, id):
         print("Requesting data for uid: ", id, "...")
         self.params['uid'] = id
@@ -31,6 +32,7 @@ class WebScrapper:
             key = table.find('h4', first=True).text
             data[key] = self.get_material_info(table)
         return data
+
 
     @staticmethod
     def get_material_info(t):
