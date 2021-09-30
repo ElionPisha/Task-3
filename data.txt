@@ -1,0 +1,561 @@
+[
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.23 [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "30 [Day]",
+            "Shelf Life:": "6 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "Toray"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "208.8 [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "3.89 [GPa]",
+            "Tensile Strain*:": "3 [%]",
+            "Tensile Strength *:": "95.8 [MPa]"
+        },
+        "Other / Comments": {
+            "Comment:": "Also available: RS-8M, a high service temperature controlled flow formulation.",
+            "Features:": "Excellent Ambient and Elevated Temperature Properties / Good Moisture Resistance / Low Dielectric and Loss Tangent Over Wide Thermal and Electrical Ranges / Elevated Glass Transition Properties Available with Higher Cure or Post Cure / Good Handleability and Processing",
+            "Impregnated Reinforcement:": "N/A - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Satellite Structures, Aerospace/Missile Structures, Electromagnetic/Dielectric Structures"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "2 [Hour] @ 204 [\u00b0C]",
+            "Curing Process:": "AFP/ATL - Autoclave - Press - Post-curable",
+            "Gel Time:": "17 min @ 177 [\u00b0C] (with a ramp of 2\u00b0C/min)",
+            "Minimum Viscosity:": "0.3 [Pa.s] @ 100 [\u00b0C] (with a ramp of 2\u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "RS-8HT",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "285 [\u00b0C]",
+            "Tg after Post Cure:": "285 [\u00b0C]"
+        }
+    },
+    {},
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.23 [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "30 [Day]",
+            "Shelf Life:": "6 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "Toray"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Excellent Ambient and Elevated Temperature Properties / Good Toughness / Good Moisture Resistance / Elevated Glass Transition Properties Available with Higher Cure or Post Cure / Good Handleability and Processing",
+            "Impregnated Reinforcement:": "Fabric - (show details)",
+            "Prepreg Use:": "Tooling",
+            "Typical Applications:": "High temperature tooling"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "6 [Hour] @ 182 [\u00b0C]",
+            "Curing Process:": "Autoclave",
+            "Gel Time:": "17 min @ 177 [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "2.05 [Pa.s] @ 120.1 [\u00b0C] (with a ramp of 2\u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "AmberTool\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "TC40",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "213 [\u00b0C]",
+            "Tg after Post Cure:": "213 [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "3.31 @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.27 [g/cm3]",
+            "Moisture:": "4.3 [%]",
+            "Out Life:": "N/A [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "HEXCEL"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "67 [J/m2]",
+            "K1c:": "0.46 [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Viscous, homogeneous / Simple, adjustable, reaction kinetics / No resin advancement at room temperature / Simple processing and impregnation / High Tg relative to post cure / Dimensionally stable at greater than 500\u00b0F (260\u00b0C) / High laminate mechanical strengths and strains / Modest cost / Non-micro cracking for woven laminates",
+            "Impregnated Reinforcement:": "UD, Fabric - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Radome and other electronic applications"
+        },
+        "Processing Properties": {
+            "Fast Curing:": "4 [Hour] @ 191 [\u00b0C]",
+            "Gel Time:": "6.5 min @ 177 [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ 152 [\u00b0C] (with a ramp of 2\u00b0C/min)",
+            "Slow Curing:": "6 [Hour] @ 177 [\u00b0C]",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "HexPly\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "F650",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Coefficient of Thermal Expansion:": "4.86 [10-5/\u00b0C]",
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "316 [\u00b0C]",
+            "Tg after Post Cure:": "N/A [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "3.04 @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.25 [g/cm3]",
+            "Moisture:": "4.1 [%]",
+            "Out Life:": "N/A [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "yes"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "HEXCEL"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "1.37 [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Controlled flow / Process working life greater than 20 days / High laminate mechanical strengths and strains / High strength retention at 450\u00b0F (232\u00b0C) dry and 350\u00b0F (177\u00b0C) wet / Improved compression after impact properties / Void-free thick laminate processability / Void-free thick laminate co-cure processing over honeycomb core / Long-term service life to 400\u00b0F (204\u00b0C) / Excellent electrical properties",
+            "Impregnated Reinforcement:": "UD, Fabric - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "N/A"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "4 [Hour] @ 191 [\u00b0C]",
+            "Curing Process:": "Autoclave - Press",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "1.29 [Pa.s] @ 131 [\u00b0C] (with a ramp of 2\u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "HexPly\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "F655",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Coefficient of Thermal Expansion:": "4.78 [10-5/\u00b0C]",
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "288 [\u00b0C]",
+            "Tg Onset Wet:": "204 [\u00b0C]",
+            "Tg after Post Cure:": "N/A [\u00b0C]"
+        }
+    },
+    {},
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.246 [g/cm3]",
+            "Moisture:": "3.8 [%]",
+            "Out Life:": "N/A [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "yes"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "HEXCEL"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "0.967 [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Controlled flow / Process working life greater than 20 days / Enhanced tack / Good for fiber placement applications / Good tack life to 10 days / High laminate mechanical strengths and strains / High strength retention at 450\u00b0F (232\u00b0C) dry and 350\u00b0F (177\u00b0C) wet / Improved compression after impact properties / Void-free thick laminate processability / Void-free thick laminate co-cure processing over honeycomb core / Long-term service life to 400\u00b0F (204\u00b0C) / Excellent electrical properties",
+            "Impregnated Reinforcement:": "UD, Fabric - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Fiber placement"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "4 [Hour] @ 191 [\u00b0C]",
+            "Curing Process:": "Autoclave - Press",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "HexPly\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "M65",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "300 [\u00b0C]",
+            "Tg Onset Wet:": "225 [\u00b0C]",
+            "Tg after Post Cure:": "N/A [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.21 [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "30 [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "SOLVAY"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "30 days out life at 21\u00b0C (70\u00b0F) / 12 months storage at -18\u00b0C (0\u00b0F) / Initial cure temperature of 190\u00b0C (374\u00b0F) / Excellent tack and drape / High flow system / DMA E\u2019 onset Tg of 282\u00b0C (540\u00b0F) / Upper service temperature of 250\u00b0C (482\u00b0F) / Excellent retention of properties at high temperatures / Solvent-free / Free-standing post-cure / Available on a wide range of reinforcements",
+            "Impregnated Reinforcement:": "UD, Fabric - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Components requiring critical load bearing performance"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "6 [Hour] @ 190 [\u00b0C]",
+            "Curing Process:": "Vacuum Molding - Autoclave",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "HTM\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "552",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "250 [\u00b0C]",
+            "Tg Onset Dry:": "195 [\u00b0C]",
+            "Tg after Post Cure:": "282 [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "1.24 [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "30 [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "SOLVAY"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Controlled flow / Excellent tack and drape with improved ambient temperature tack stability / No hot debulk required / Free-standing post-cure / Maximum DMA E' onset Tg of 270\u00b0C after post-cure to 240\u00b0C / Upper service temperature 250\u00b0C",
+            "Impregnated Reinforcement:": "UD, Fabric - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "N/A"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "6 [Hour] @ 190 [\u00b0C]",
+            "Curing Process:": "Autoclave",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "HTM\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "556",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg Onset Dry:": "190 [\u00b0C]",
+            "Tg after Post Cure:": "270 [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "N/A [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "14 [Day]",
+            "Shelf Life:": "12 [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "USA",
+            "Manufacturer:": "BARRDAY"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "high temperature curing, high performance bismaleimide system, offers outstanding mechanical properties and a very high glass transition temperature of up to 626\u00b0F / 330\u00b0C",
+            "Impregnated Reinforcement:": "N/A - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "N/A"
+        },
+        "Processing Properties": {
+            "Cure Time/Temp:": "4 [Hour] @ 190 [\u00b0C]",
+            "Curing Process:": "Autoclave - Vacuum molding",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "LC909",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg after Post Cure:": "232 [\u00b0C]",
+            "Tg:": "250 [\u00b0C]"
+        }
+    },
+    {},
+    {},
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "N/A [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "N/A [Day]",
+            "Shelf Life:": "N/A [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "Japan",
+            "Manufacturer:": "TEIJIN"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Automobiles, Aircraft parts",
+            "Impregnated Reinforcement:": "UD, Fabric, Roving - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Highly heat resistant"
+        },
+        "Processing Properties": {
+            "Curing Process:": "Autoclave - Press - Vacuum molding",
+            "Fast Curing:": "N/A @ 270 [\u00b0C]",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Slow Curing:": "N/A @ 180 [\u00b0C]",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "Tenax\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "304",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg after Post Cure:": "N/A [\u00b0C]"
+        }
+    },
+    {
+        "Electrical Properties": {
+            "Dielectric Constant:": "N/A @ 10GHz",
+            "Loss Tangent:": "N/A @ 10GHz"
+        },
+        "General Properties": {
+            "Density:": "N/A [g/cm3]",
+            "Moisture:": "N/A [%]",
+            "Out Life:": "N/A [Day]",
+            "Shelf Life:": "N/A [Month]",
+            "Toughened:": "N/A"
+        },
+        "Manufacturer Information": {
+            "HQ Location:": "Japan",
+            "Manufacturer:": "TEIJIN"
+        },
+        "Mechanical Properties": {
+            "Compression Modulus :": "N/A [GPa]",
+            "Compression Strength :": "N/A [MPa]",
+            "Flexural Modulus:": "N/A [GPa]",
+            "Flexural Strength:": "N/A [MPa]",
+            "G1c:": "N/A [J/m2]",
+            "K1c:": "N/A [MPa.m1/2]",
+            "Tensile Modulus *:": "N/A [GPa]",
+            "Tensile Strain*:": "N/A [%]",
+            "Tensile Strength *:": "N/A [MPa]"
+        },
+        "Other / Comments": {
+            "Features:": "Aircraft parts",
+            "Impregnated Reinforcement:": "UD, Fabric, Roving - (show details)",
+            "Prepreg Use:": "Component",
+            "Typical Applications:": "Heat resistant, shock resistant"
+        },
+        "Processing Properties": {
+            "Curing Process:": "Autoclave - Press - Vacuum molding",
+            "Fast Curing:": "N/A @ N/A [\u00b0C]",
+            "Gel Time:": "N/A ~ N/A min @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Minimum Viscosity:": "N/A [Pa.s] @ N/A [\u00b0C] (with a ramp of N/A \u00b0C/min)",
+            "Slow Curing:": "N/A @ 180 [\u00b0C]",
+            "Transformation Process:": "Prepreg"
+        },
+        "Product Information": {
+            "Brand:": "Tenax\u00ae",
+            "Category:": "Prepreg Resin",
+            "Matrix / Polymer Category:": "Thermoset",
+            "Reference:": "331",
+            "Resin Type:": "BMI"
+        },
+        "Thermal Properties": {
+            "Enthalpy:": "N/A [J/g]",
+            "Heat Deflection Temperature:": "N/A [\u00b0C]",
+            "Service Temperature:": "N/A [\u00b0C]",
+            "Tg after Post Cure:": "N/A [\u00b0C]"
+        }
+    }
+]
