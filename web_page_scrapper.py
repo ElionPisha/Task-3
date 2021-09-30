@@ -11,6 +11,7 @@ params = {
 
 class WebScrapper:
 
+
     def __init__(self):
         self.params = params
         self.session = HTMLSession()
